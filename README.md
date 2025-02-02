@@ -225,7 +225,3 @@ Then, visit `http://localhost:8080/` in your browser. You can now enter a query 
 ## Conclusion
 
 This project demonstrates the integration of Google’s PaLM API with a Flask web application, deployed on Cloud Run. It shows how to create scalable, intelligent chatbots and manage them in a cloud environment. By using Docker for containerization and Cloud Run for deployment, this solution provides high availability and auto-scaling capabilities, essential for real-world AI applications.
-
-## Download the Project
-
-[Download Project Source Code](#)
